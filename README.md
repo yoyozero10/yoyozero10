@@ -1,6 +1,8 @@
-<div align="center">
-  <h1>Tran Dai Thang</h1>
+<p align="center">
+  <img src="header.png" alt="yoyozero10 Banner" width="100%" />
+</p>
 
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Building+Digital+Solutions;Expanding+Global+Service+Ecosystem;TypeScript+%7C+Node.js+%7C+.NET+%7C+Java" alt="Typing SVG" />
   </a>
