@@ -15,15 +15,20 @@
 
 ### About Me
 
+<img align="right" width="360" alt="Coding GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 <p>
   <b>Full Name:</b> Tran Dai Thang<br>
   <b>Nickname:</b> yoyozero9<br>
   <b>Birth Year:</b> 2005<br>
+  <b>Coding Experience:</b> Copy - Paste Expert 😄<br>
   <b>Interests:</b> Service development, building tech solutions<br>
   <b>Motto:</b> <i>"Nothing is possible"</i><br>
   <b>Goal:</b> Building breakthrough technology solutions<br>
   <b>Direction:</b> Expanding global service ecosystem
 </p>
+
+<br clear="right" />
 
 ---
 
