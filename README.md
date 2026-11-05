@@ -44,8 +44,5 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=yoyozero10&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" height="150" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyozero10&theme=github_dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" height="150" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyozero10&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=yoyozero10&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" height="150" alt="Top Languages" />
 </p>
