@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>yoyozero10</h1>
+  <h1>Tran Dai Thang</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Building+Clean+%26+Reliable+Systems;TypeScript+%7C+Node.js+%7C+NestJS;.NET+%7C+Java+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Building+Digital+Solutions;Expanding+Global+Service+Ecosystem;TypeScript+%7C+Node.js+%7C+.NET+%7C+Java" alt="Typing SVG" />
   </a>
 
   <p>
@@ -15,9 +15,15 @@
 
 ### About Me
 
-- 🔭 Focus: Backend architecture, web applications, distributed systems.
-- 🛠️ Tech stack: TypeScript, JavaScript, C# (.NET), Java, Python.
-- 🎯 Philosophy: Clean code, minimalism, high performance.
+<p>
+  <b>Full Name:</b> Tran Dai Thang<br>
+  <b>Nickname:</b> yoyozero9<br>
+  <b>Birth Year:</b> 2005<br>
+  <b>Interests:</b> Service development, building tech solutions<br>
+  <b>Motto:</b> <i>"Nothing is possible"</i><br>
+  <b>Goal:</b> Building breakthrough technology solutions<br>
+  <b>Direction:</b> Expanding global service ecosystem
+</p>
 
 ---
 
